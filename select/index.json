@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "至上主義アドトラック",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2025-12-29T05:53:10.075390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "至上主義アドトラック",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/01_至上主義アドトラック_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "至上主義アドトラック - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/02_至上主義アドトラック_-_Bouquet_ver._hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "至上主義アドトラック -TEKINA//remix-",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/03_至上主義アドトラック_-TEKINA_remix-_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "至上主義アドトラック -TEKINA//remix-",
+      "artist": "hololive music studio",
+      "has_synced": true,
+      "path": "select/04_至上主義アドトラック_-TEKINA_remix-_hololive_music_studio.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "至上主義アドトラック",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/05_至上主義アドトラック_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "至上主義アドトラック (-TEKINA//remix-)",
+      "artist": "hololive music studio",
+      "has_synced": true,
+      "path": "select/06_至上主義アドトラック_(-TEKINA_remix-)_hololive_music_studio.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "至上主義アドトラック",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_至上主義アドトラック_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
