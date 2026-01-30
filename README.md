@@ -1,4 +1,4 @@
-# hololive IDOL PROJECT – 至上主義アドトラック
+# hololive IDOL PROJECT – 至上主義アドトラック (Bouquet ver.)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
